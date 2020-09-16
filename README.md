@@ -1,1 +1,3 @@
-# compression_decompression
+# Data Manipulation Assignment - Fundamentals of C
+Find a customer with a real-world data manipulation need that involves data compression and/or encryption. The aim is to develop a C program that solves the problem found.
+Develop own library (header files), runtime modes of program(using command line parsing), makefiles, provide debugging mode using preprocessor directives and advanced structures like queues and linked lists.
